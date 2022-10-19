@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Rebaselu
+#subtitle: Website Design
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+#date: 2014-07-15
+#img: treehouse.png
+thumbnail: rebased.jpg
+#alt: image-alt
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: Rebased on korporatsiooni kõige nooremad ja vähemkogenud liikmed, kel kohustus, aga ka au kanda musta teklit. Rebaspõli kestab keskmiselt kolm semestrit. Selle aja jooksul omandab rebane kõik teadmised ja oskused, mida võib tarvis minna värvikandjana. Igal nädalal toimuvad rebastunnid, laulu- ehk cantustunnid ning olenevalt semestrist ka tantsukursused mõne akadeemilise meesorganisatsiooniga.<br><br>Iga rebane peab oma rebasajal ette kandma referaadi. Põnev ja lõbus väljakutse on rebasperele rebasteater, mis meelitab näitlemisoskuse välja ka kõige vaguramast tudengineiust. See arendab rebase loomingulisust, fantaasiat ning annab juurde esinemisjulgust.<br><br>Korporatsiooni astudes liitub rebane sõpruskonnaga. Eriline side on ühel ajal rebasperre kuulunud liikmetel, veel erilisem aga concoetur’itel ehk neil, kes liitusid Amicitiaga ühel ja samal semestril. Kuid midagi veel erilisemat on suhe oma akadeemilise perega. Sellega liitub rebane valides endale esimese korp!-i kuulumise kuu jooksu akadeemilise ema, kellest saab nõuandja, teenäitaja ja lihtsalt hea sõber terveks eluks.<br><br>Rebaseks olekuga kaasnevad ka kindlad kohustused. Nad hoolitsevad selle eest, et konvent püsiks korras, kuid põhiliseks rebase kohustuseks on olla tähelepanelik ja aktiivne. Kohustuste kõrval on rebastel ka privileegid – näiteks üritused, mis on mõeldud vaid rebastele - kuldrebase valimine, ühised seiklemised vilistlastega ja muidugi rebaslend, mida arukas rebane värvikandjate läheduses ei maini. Ja loomulikult on rebased need, kelle eest värvikandjad eriliselt hoolitsevad ning keda nad alati toetavad.
 
 ---

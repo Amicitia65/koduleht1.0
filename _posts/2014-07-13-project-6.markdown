@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Sõprusorganisatsioonid
+#subtitle: Graphic Design
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+#date: 2014-07-15
+#img: roundicons.png
+thumbnail: vapid.jpg
+#alt: image-alt
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: Korp! Amicitia sõprusorganisatsiooniks Lätis on <b>Imeria</b>, mis loodi 19. novembril 1924. aastal Riias. Taasasutati 12. aprillil 1990. aastal. Värvideks on pruun-helesinine-kuldne. Korp! Amicitiaga loodi sõprusleping juba 1939. aastal ja aastal 1991 taastati sidemed.<br><br> Korp! Amicitia sõprusorganisatsiooniks Soomes on <b>Wiipurilainen osakunta</b>, mis on asutatud 1653. aastal Turu akadeemia juures. 1828. aastal toodi Turu akadeemia üle Helsingisse ja ka osakunna tegevus jätkus Helsingis. Värvideks on punane-kollane-sinine. Korp! Amicitiaga loodi sõprusleping 1991. aastal.
 
 ---

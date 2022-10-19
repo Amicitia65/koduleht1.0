@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Konvent
+#subtitle: Website Design
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+#date: 2014-07-14
+#img: startup-framework.png
+thumbnail: konvent2.jpg
+#alt: image-alt
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: Konvent on koht, kus toimub korp! Amicitia igapäevategevus, peame ametlikke üritusi ja veedame niisama mõnusasti aega. Meie praegune konvendikorter asub Kastani tänaval, majas number 65, kus oleme tegutsenud alates 1999. aastast.<br><br> Tee päris oma konvendini on olnud pikk ja käänuline. Enne Teist maailmasõda kolisid amicad mitmel korral, kuni 1930. aastal üüriti kaunis ning ruumikas korter Tartus Aia tänav 8. See aga hävis sõjatules koos suure osaga meie varast. Praegu asub umbes selle hoone koha peal teater Vanemuine.<br><br> Pärast taasasutamist 1989. aastal käisid amicad mõnda aega koos liikmete kodudes, raamatukogus ja õppehoonetes. 1994. aasta märtsis osteti väliskoondiste abiga esimest korda päris oma konvendikorter Kalevi 47.<br><br> Rõõm oli suur ning täie hooga läksid lahti erinevad konvendiüritused, alguse sai pannkoogipühapäevade traditsioon. Amicitia elas, õitses ning kasvas – peagi jäi Kalevi tänava korter kitsaks. 1997. aastal otsustas korp! selle müüa. Uue ja avarama leidmiseni üüriti ruume Üliõpilasselts Liivikalt otse ülikoolilinna pulsil Gildi tänaval, kus justkui meie meelituseks ilutses üüratu sirelililla ahi.<br><br> Konvent volbri ajal 2019. Oma konvendiruumide otsingud jätkusid ja 1999. aasta kevadel leidsimegi sobiva, 20. sajandi alguses valminud romantilise puumaja, milles müügiks just meile meelepärane korter. Pärast kolme aastat ühist pingutust sai konvendikorter renoveeritud. Tänaseks oleme laienenud lausa üle kolme endise korteri.<br><br>Maja loo teeb väärikamaks ka asjaolu, et juba enne meid on selles majas elanud ja liikunud kuulsaid ja tegusaid naisi – Ukraina Koidula, luuletaja Lesja Ukrainka, 20. sajandi alguses ning veel üheksakümnendatel tegutses majas Tartu Naisselts.
 
 ---

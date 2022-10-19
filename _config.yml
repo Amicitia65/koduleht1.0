@@ -12,56 +12,36 @@ description: "Korp! Amicitia on tegusaid ja vahvaid eesti naisüliõpilasi
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Janne Lamus 
+  pic: 4
+  position: Kirjatoimetaja
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: envelope
+      url: kirjatoimetaja@amicitia.ee
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Heli Vahar
+  pic: 4
+  position: Esinaine
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: envelope
+      url: esinaine@amicitia.ee
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Inge-Mirjam Piirsalu
+  pic: 4
+  position: Abiesinaine
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: envelope
+      url: abiesinaine@amicitia.ee
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: instagram
+    url: https://www.instagram.com/korpamicitia/
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/korpamicitia
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+address: Kastani 65-2, Tartu 50410
 
 # Build settings
 markdown: kramdown

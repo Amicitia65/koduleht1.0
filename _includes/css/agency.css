@@ -18,8 +18,20 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.text-section {
+    margin: auto;
+    text-align: justify;
+    max-width: 800px;
+
+}
+
+.text-modals {
+    font-size: 18px;
+    text-align: justify;
+}
+
 p {
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1.75;
 }
 
@@ -543,6 +555,7 @@ section h3.section-subheading {
 .timeline .timeline-body>p,
 .timeline .timeline-body>ul {
     margin-bottom: 0;
+    
 }
 
 @media(min-width:768px) {

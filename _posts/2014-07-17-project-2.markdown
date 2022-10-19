@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Traditsioonilised üritused
+#subtitle: Website Design
 layout: default
-modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+#modal-id: 2
+#date: 2014-07-17
+#img: escape.png
+thumbnail: kommerss.jpg
+#alt: image-alt
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: <b>Kommerss</b><br>Kommerssi ehk korp! Amicitia asutamise või taasasutamise aastapäeva tähistame kord semestris. Sügissemestril tähistame 21. novembrile lähimal nädalavahetusel korp! Amicitia asutamist. Kevadel jällegi 28. aprillile lähimal nädalavahetusel taasasutamist. Sügiseti lisandub kommersile perekonnaõhtu – pidulik koosviibimine, kuhu on oodatud ka meie liikmete kaaslased ning akadeemilised sõbrad.<br><br><b>Vabariigi aastapäev</b><br>Eesti Vabariigi aastapäeva tähistame 24. veebruaril. Hommikul koguneme linnarahva ja teiste akadeemiliste organisatsioonidega Tartu tähetorni juurde ning valitsuse hoone juurde Tallinnas. Sellele järgneb aktus ning õhtul pidulik koosviibimine konvendis. Samuti on teistel akadeemilistel organisatsioonidel tavaks tähistada vabariigi aastapäeva balli või piduliku vastuvõtuga, millest ka meie liikmed osa võtavad. <br><br><b>Volbriöö</b><br> Kevadsemestri akadeemiliselt pikimat ööd ehk volbrit tähistame organiseerunud tudengitele vääriliselt suure peoga. Eelnevatel aastatel oleme volbripidu pidanud nii omakeskis kui ka koos teiste akadeemiliste organisatsioonidega. Näiteks 2010. aastal pidasime volbrit koos korp! Vironia seltsivendadega ning esines ansambel Vennaskond. Korp! Rotaliaga ühiselt korraldatud volbritel on esinenud ansambel Ska Faktor ning Chalice. <br><br><b>Suvepäevad</b><br> Tavaliselt võtavad mõnel augustikuu nädalavahetusel korp! Amicitia liikmed oma lähedased ja sõbrad kaasa ning saavad kokku mõnes looduskaunis kohas, kus sageli kuulatakse huvitavaid ettekandeid, tutvutakse eestlaste ajalooga ning veedetakse mõnusalt aega lõkke ümber toimuvad suvepäevad. See traditsioon sai alguse juba 1937. aastal. <br><br><b>Muud üritused</b><br> Vaid rebastele mõeldud üritus on igal semestril toimuv veinilaud Eesti Üliõpilaste Seltsi noorliikmetega. Mainimata ei saa jätta ka talvepäevi korp! Ugalaga, volbri eelüritust korp! Tehnolaga, kevade vastuvõtmist Kuradisillal ning mitmepäevast tantsulaagrit koos korp! Vironiaga, naistepäeva tähistamist Eesti Naisüliõpilaste Seltsiga ja ühist jõulupidu korp! Fraternitas Esticaga. Tartu Ülikooli aastapäeval, 1. detsembril, osaleme koos teiste üliõpilasorganisatsioonidega tõrvikurongkäigus. Lisaks hakkab taaselustuma traditsioon korraldada korp! Rotaliaga sõjalis-sportlikku laagrit.
 
 ---

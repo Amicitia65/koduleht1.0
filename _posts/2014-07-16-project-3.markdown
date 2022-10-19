@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Tegevus
+#subtitle: Website Design
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+#date: 2014-07-16
+#img: golden.png
+thumbnail: grill.jpg
+#alt: image-alt
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: Korporatsiooni kuulumine nõuab üksjagu aega. Hea on aga see, et sõpradega, amicadega, veedetud aeg pole kunagi igav. Iga nädala kolmapäeval toimuvad korp! Amicitia konvendis koosolekud, millel osalemine on rebastele ning tegevliikmetele kohustuslik. Kord nädalas kohtub rebasvanem korp!-i noorimate liikmetega rebastunnis, kus arutletakse ühiselt akadeemiliste tavade, ajaloo ja põhimõtete üle. Et ka kõige raskemad tantsukeerutused selgeks saaksid, korraldame kevaditi ja sügiseti mõne meesorganisatsiooniga tantsukursused.<br><br> Ühise lauluviisi võtame üles cantus- ehk laulutundides. Need, kel muusika aga eriti südamelähedane, laulavad lisaks veel akadeemiliste organisatsioonide segakooris Causa Amoris, mille koosseisus oleme esinenud nii laulupidudel kui ka üliõpilaste laulu- ja tantsupeol Gaudeamus.<br><br>Üheskoos tähistame rahvusülikooli aastapäeva, jõule ja Eesti Vabariigi aastapäeva. Lisaks võtame ette teatrikülastusi ning käime sportimas – näiteks matkamas või võrkpalli mängimas. Tublimad meist läbivad igal aastal ka Tartu Maratoni.<br><br> Kolmel korral semestris kutsume oma pereliikmeid, tuttavaid või akadeemilisi sõpru pannkoogihommikule, et päeva magusalt alustada. Novembri ja aprillikuu lõppu jääval nädalavahetusel peame kommerssi ehk tähistame asutamise või taasasutamise aastapäeva. Kevadsemestri pikimat ööd volbrit tähistame akadeemilistele tudengitele väärilise suure peoga. Näiteks on korp! Vironia seltsivendadega korraldatud volbril esinenud ansambel Vennaskond. Korp! Rotaliaga ühiselt korraldatud volbritel on esinenud ka ansambel Ska Faktor ning Chalice.<br><br>Aastate jooksul oleme korp! Amicitia traditsiooniliste ürituste nimekirja lisanud palju eriilmelist ja toredat, nii ametlikku kui ka lõbusat. Konvendis ei möödu nädalat, kus me omakeskis midagi põnevat ette ei võtaks või mõne teise akadeemilise organisatsiooniga midagi ei korraldaks.
 
 ---
