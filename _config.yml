@@ -3,6 +3,7 @@ baseurl: /koduleht1.0/
 
 # Site settings
 title: Korporatsioon Amicitia
+logo: sirkel1
 email: kirjatoimetaja@amicitia.ee
 description: "Korp! Amicitia on tegusaid ja vahvaid eesti naisüliõpilasi 
               ühendav korporatsioon, mis on asutatud 1924. aastal. Meie eesmärgiks on pakkuda 
@@ -39,6 +40,8 @@ social:
     url: https://www.instagram.com/korpamicitia/
   - title: facebook
     url: https://www.facebook.com/korpamicitia
+  - title: user
+    url: http://amicitia.ee/sise/
 
 # Postal address (add as many lines as necessary)
 address: Kastani 65-2, Tartu 50410

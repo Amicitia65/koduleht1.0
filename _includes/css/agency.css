@@ -48,11 +48,18 @@ body {
     display: table;
   }
 
-@media screen and (max-width: 500px) {
+@media screen and (min-width:768px) {
     .column {
       width: 100%;
     }
   }
+
+.img-logo {
+    max-width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 p {
     font-size: 15px;
@@ -168,7 +175,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl {
     padding: 20px 40px;
     border-color: #{{ site.data.template.color.primary }};
-    border-radius: 3px;
+    border-radius: 1px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 18px;
@@ -223,7 +230,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "bradley hand","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
 }
 
@@ -270,7 +277,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-nav>.active>a {
-    border-radius: 0;
+    border-radius: 1;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
 }
@@ -299,7 +306,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-nav>.active>a {
-        border-radius: 3px;
+        border-radius: 1px;
     }
 
     .navbar-default.navbar-shrink {
@@ -326,7 +333,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 50px;
     padding-bottom: 50px;
 }
 
