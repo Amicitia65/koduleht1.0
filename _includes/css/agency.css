@@ -230,7 +230,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "bradley hand","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "bradley hand","Kaushan script",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
 }
 
