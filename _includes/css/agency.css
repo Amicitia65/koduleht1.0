@@ -48,7 +48,7 @@ body {
     display: table;
   }
 
-@media screen and (min-width:768px) {
+@media screen and (max-width:500px) {
     .column {
       width: 100%;
     }
@@ -248,6 +248,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-toggle {
     border-color: #{{ site.data.template.color.primary }};
     background-color: #{{ site.data.template.color.primary }};
+    border-radius: 1px;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -277,7 +278,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-nav>.active>a {
-    border-radius: 1;
+    border-radius: 1px;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
 }
@@ -333,7 +334,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 50px;
+    padding-top: 90px;
     padding-bottom: 50px;
 }
 
@@ -356,7 +357,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 200px;
         padding-bottom: 200px;
     }
 
