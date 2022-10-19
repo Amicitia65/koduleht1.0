@@ -17,21 +17,21 @@ people:
   position: Kirjatoimetaja
   social:
     - title: envelope
-      url: kirjatoimetaja@amicitia.ee
+      url: mailto:kirjatoimetaja@amicitia.ee
 
 - name: Heli Vahar
   pic: 4
   position: Esinaine
   social:
     - title: envelope
-      url: esinaine@amicitia.ee
+      url: mailto:esinaine@amicitia.ee
 
 - name: Inge-Mirjam Piirsalu
   pic: 4
   position: Abiesinaine
   social:
     - title: envelope
-      url: abiesinaine@amicitia.ee
+      url: mailto:abiesinaine@amicitia.ee
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
