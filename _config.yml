@@ -13,23 +13,23 @@ description: "Korp! Amicitia on tegusaid ja vahvaid eesti naisüliõpilasi
 
 # Team names, titles and social links
 people:
-- name: Janne Lamus 
+- name: ksv! Janne Lamus 
   pic: 4
-  position: Kirjatoimetaja
+  position: s/s kirjatoimetaja
   social:
     - title: envelope
       url: mailto:kirjatoimetaja@amicitia.ee
 
-- name: Heli Vahar
+- name: ksv! Heli Vahar
   pic: 4
-  position: Esinaine
+  position: s/s esinaine
   social:
     - title: envelope
       url: mailto:esinaine@amicitia.ee
 
-- name: Inge-Mirjam Piirsalu
-  pic: 4
-  position: Abiesinaine
+- name: ksv! Inge-Mirjam Piirsalu
+  pic: inge
+  position: s/s abiesinaine
   social:
     - title: envelope
       url: mailto:abiesinaine@amicitia.ee
