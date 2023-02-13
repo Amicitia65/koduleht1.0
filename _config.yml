@@ -1,5 +1,5 @@
-url: https://amicitia65.github.io
-baseurl: /koduleht1.0/
+url: http://www.amicitia.ee
+baseurl: ""
 
 # Site settings
 title: Korporatsioon Amicitia
@@ -13,22 +13,22 @@ description: "Korp! Amicitia on tegusaid ja vahvaid eesti naisüliõpilasi
 
 # Team names, titles and social links
 people:
-- name: ksv! Janne Lamus 
+- name: ksv! Liisa Mai Ümarik
   pic: 4
   position: s/s kirjatoimetaja
   social:
     - title: envelope
       url: mailto:kirjatoimetaja@amicitia.ee
 
-- name: ksv! Heli Vahar
+- name: ksv! Annika Kumar
   pic: 4
   position: s/s esinaine
   social:
     - title: envelope
       url: mailto:esinaine@amicitia.ee
 
-- name: ksv! Inge-Mirjam Piirsalu
-  pic: inge
+- name: ksv! Minna-Maria Lass
+  pic: 4
   position: s/s abiesinaine
   social:
     - title: envelope

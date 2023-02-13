@@ -10,7 +10,7 @@ thumbnail: liitumine.jpg
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: Võtame liikmeid vastu kaks korda aastas, sügis- ja kevadsemestri alguses külalisõhtute peroodil. Kandideerimiseks on vaja õppida parajasti või olla lõpetanud eriala ülikoolis, kus pakutakse kolmeastmelist haridust (ehk doktoriõpet). <br><br>Selleks semestriks on külalisõhtud läbi. Ootame teid külla 2023. aasta kevadsemestril! Seniks aga hoiame end ja teisi ning kohtumiseni ajal, mil esimesed õied Kastani tänaval taas tärkama hakkavad! <br><br>Küsimuste korral võid saata sõnumi meie FB lehe kaudu või kirjatoimetaja@amicitia.ee
+description: Võtame liikmeid vastu kaks korda aastas, sügis- ja kevadsemestri alguses külalisõhtute peroodil. Kandideerimiseks on vaja õppida parajasti või olla lõpetanud eriala ülikoolis, kus pakutakse kolmeastmelist haridust (ehk doktoriõpet). <br><br>2023. aasta kevadsemestri külalisõhtud leiavad aset 16. ja 21. veebruaril kell 19.15 meie konvendis aadressil Kastani 65-2, Tartu. Oled oodatud meiega tutvuma! :)<br><br>Küsimuste korral võid saata sõnumi meie FB lehe kaudu või kirjatoimetaja@amicitia.ee
 
-
+#Selleks semestriks on külalisõhtud läbi. Ootame teid külla 2023. aasta sügissemestril! Seniks aga hoiame end ja teisi ning kohtumiseni ajal, mil esimesed kuldsed lehed Kastani tänaval taas lendama hakkavad!
 ---
